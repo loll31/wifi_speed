@@ -1,3 +1,5 @@
+![Wifi Speed](https://github.com/loll31/wifi_speed/blob/main/wifi_speed.png?raw=true)
+
 # wifi_speed
 Show MacOS Wifi speed in graph
 
